@@ -1,3 +1,4 @@
-#world {z-index:1;}#debug{color:#fff;}
-html{color:#444; background-color:#000;}
-		
+#world {z-index:1;background: white;color: black; border-radius: 16px}
+#contenedor-debug p{color:#fff;margin-bottom: 32px;background: brown}
+#debug{color:#fff;}
+html{color:#444; background-color:#000;}		
