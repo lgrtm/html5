@@ -1,4 +1,5 @@
-#world {z-index:1;background: white;color: black; border-radius: 16px}
-#contenedor-debug p{color:#fff;margin-bottom: 32px;background: brown}
+html{color:#444; background-color:#000;}
+#main{margin: 0 auto;}
+#canvas {z-index:1;border:  3px solid grey;border-radius: 3px;}
+#contenedor-debug p{color:#fff;margin-bottom: 32px;background: brown;}
 #debug{color:#fff;}
-html{color:#444; background-color:#000;}		
