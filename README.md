@@ -1,24 +1,23 @@
 html5
 =====
 
-Test api canvas de html5.
+Test api canvas html5.
 
 TODO
 ====
 
-En breve iré poniendo todas las aplicaciones programadas para la api.
+Examples for api programming.
 
-Ejemplos:
+Various:
 
-Funciones con senos y cosenos (dibujado de lineas con curvas).
-Lineas rectas.
-Circulos con y sin relleno.
-Rectangulos.
-Transparencias.
-Particulas generación y colisiones.
-Efecto de movimientos tipo grass o hierba.
-Generación de curvas.
-Recursividad de curvas.
-Pintado de path importados de INKSCAPE !!!.
-Capas en canvas.
-....
+Sin-Cos.
+Lines.
+Circles.
+Rectangles.
+Layers.
+Particles - generation and physics
+Animations.
+Curves.
+Recursivity.
+Strokes of Inkscapes to html5 !
+
