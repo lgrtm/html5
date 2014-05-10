@@ -15,7 +15,7 @@ Lines.
 Circles.
 Rectangles.
 Layers.
-Particles - generation and physics
+Particles.
 Animations.
 Curves.
 Recursivity.
